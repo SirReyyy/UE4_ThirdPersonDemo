@@ -4,6 +4,7 @@
 	"Category": "",
 	"Description": "",
 	"TargetPlatforms": [
-		"HTML5"
+		"HTML5",
+		"WindowsNoEditor"
 	]
 }
